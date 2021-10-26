@@ -152,6 +152,9 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
+> **[1]**
+> R. Mahony, V. Kumar and P. Corke, "Multirotor Aerial Vehicles: Modeling, Estimation, and Control of Quadrotor," in IEEE Robotics & Automation Magazine, vol. 19, no. 3, pp. 20-32, Sept. 2012, doi: 10.1109/MRA.2012.2206474.
+
 > **[?]**
 > If your work was funded by any organization or institution, acknowledge their support here.
 > In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
