@@ -16,3 +16,24 @@
 #
 # *****************************************************************************
 
+
+# Modules *********************************************************************
+import constants
+from dataclasses import dataclass
+import numpy as np
+import utils.py
+
+
+
+    
+# Class 
+@dataclass(order=False, frozen=False)
+class RBDYNAMICS:
+    m: float       # mass of the quadrotor
+    I: np.ndarray  # constant inertia matrix R[3x3]
+
+
+
+
+
+    
