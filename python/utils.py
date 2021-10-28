@@ -21,6 +21,7 @@
 import numpy as np
 import numba as nb
 
+
 @nb.jit
 def inv_npmat_jit(mat: np.ndarray) -> np.ndarray:
     """
